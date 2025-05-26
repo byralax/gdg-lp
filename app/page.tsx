@@ -268,9 +268,12 @@ export default function GDGBabcockLanding() {
                 size="lg"
                 variant="outline"
                 className="border-white text-white hover:bg-white hover:text-blue-600 px-8 py-3 backdrop-blur-sm"
+                asChild
               >
-                <Calendar className="mr-2 h-5 w-5" />
-                View Events
+                <Link href="#events">
+                  <Calendar className="mr-2 h-5 w-5" />
+                  View Events
+                </Link>
               </Button>
             </div>
           </AnimatedSection>
