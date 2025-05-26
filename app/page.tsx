@@ -569,7 +569,7 @@ export default function GDGBabcockLanding() {
             </div>
           </AnimatedSection>
           <AnimatedSection animation="fadeIn" delay={600}>
-            <p className="text-sm mt-4 opacity-75">Join 200+ students already part of our community</p>
+            <p className="text-sm mt-4 opacity-75">Join 1100+ students already part of our community</p>
           </AnimatedSection>
         </div>
       </section>
