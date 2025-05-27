@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "byralax gdg page",
+  title: "Incredible 2 gdg page",
   description:
     "GDG On Campus Babcock University - A community of student developers, designers, and builders shaping the future of tech through collaboration, learning, and innovation.",
 }
