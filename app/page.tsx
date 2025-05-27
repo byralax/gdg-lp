@@ -653,13 +653,22 @@ export default function GDGBabcockLanding() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>
-              &copy; 2025 GDG On Campus Babcock University. Designed by florence & built by{" "}
-              <a
-                href="https://github.com/bralax"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-400 hover:underline"
+  <p>
+    &copy; 2025 GDG On Campus Babcock University. Designed by{" "}
+    <a
+      href="https://dribbble.com/FlorenceOpe"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-pink-400 hover:underline"
+    >
+      Florence
+    </a>{" "}
+    & built by{" "}
+    <a
+      href="https://github.com/bralax"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-400 hover:underline"
               >
                 Byralax
               </a>
